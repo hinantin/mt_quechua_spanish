@@ -7,7 +7,7 @@ The Opus folder contains files gotten using jw300 on http://opus.nlpl.eu/
 
 There is a train,validate,test split for training OpenNmt (or any MT) models...
 
-### TRAINED MODELS
+### PRE-TRAINED & TRAINED MODELS
 
 ###### opus_jw_300
 
