@@ -16,5 +16,7 @@ wget --max-redirect=20 -O opus_jw_300.zip https://www.dropbox.com/sh/a0la2qd23fh
 
 unzip opus_jw_300.zip
 
+onmt_translate -model train_bpe_europarl_and_jw300_joint_qu_es_es_qu-model_step_20000.pt -src /home/ubuntu/mt_quechua_spanish/corpora/magazine/kallpa.qu.truecase -output kallpa
+
 ```
 
